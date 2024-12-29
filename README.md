@@ -1,0 +1,6 @@
+# 多商户个人免签即时到账支付系统源码，支持监控店员收款信息，送监控程序，稳定
+
+店家有话说：（请认真阅读完再下单）<br>❤一切以演示站为准<br>❤源码为虚拟产品，拍前请慎重，如有不明白请联系客服问清楚；本条将成为维权的证据！<br>❤确定演示站是自己想要的再下单，源码具体功能请联系客服获取参考以客服提供的演示站为准。<br>❤源码安装完，功能自己研究。或有偿提供网站功能上的指导。拒绝伸手党。<br>-----------------------------------------------------------------------------<br>需要演示请联系客服： 电话：.Klx_90,.Klx_99,.Klx_92,.Klx_19,.Klx_73,.Klx_75,.Klx_88,.Klx_7,.Klx_10,.Klx_21{display:none};60271316835825777768651203108742 QQ：.VyR_4,.VyR_44,.VyR_95,.VyR_52,.VyR_66,.VyR_27,.VyR_50,.VyR_45{display:none};5709659398080307621499801<br>thinkphp框架多商户个人免签即时到账支付系统源码。<br>支持监控店员收款信息，使用支付宝微信小号，避xp框架，不修改支付宝/微信客户端，防封更安全。<br>固定码APP监控，支持支付宝支付和微信支付，免费签约即时到达，实时回拨个人免签。<br>支持通知包括：支付宝个人收款推送通知、支付宝商户二维码收款推送通知、支付宝业务员绑定业务员账户收款推送通知、微信二维码收款推送通知、微信业务员收款推送通知。<br><br><br><br><br><br><br><br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/wzakx" style="color: red;">https://mega-file.org/wzakx</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
